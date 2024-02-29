@@ -60,4 +60,4 @@ If you find this work useful, please cite
 
 
 ## Acknowledgment 
-This research was supported by [AI 4 Missions](https://research.csiro.au/ai4m/)
+This research was supported by [AI 4 Missions](https://research.csiro.au/ai4m/ai-is-helping-to-transform-wound-care/)
