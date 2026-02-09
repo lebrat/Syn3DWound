@@ -2,19 +2,19 @@
 layout: single
 author_profile: True
 classes: wide
-excerpt: "A Synthetic Dataset for 3D Wound Bed Analysis<br/>ISBI 2024"
+title: "Syn3DWound: A Synthetic Dataset for 3D Wound Bed Analysis"
+excerpt: "ISBI 2024"
 header:
   overlay_image: /assets/images/MR_recon.png
   overlay_filter: 0.5
-  caption: "3D reconstructions based on Syn3DWound's data for different image resolution.
-  "
+  caption: "3D reconstructions based on Syn3DWound's data for different image resolution."
   actions:
     - label: "Paper"
       url: "https://arxiv.org/abs/2311.15836"
-    - label: "Code"
-      url: "https://github.com/lebrat/Syn3DWound"
+    # - label: "Code"
+    #   url: "https://github.com/lebrat/Syn3DWound"
     - label: "Dataset"
-      url: "https://data.csiro.au/collection/csiro:61849"    
+      url: "https://doi.org/10.25919/5rwz-ts17"    
 gallery_pipepline:
   - url: /assets/images/explaination_pipeline.png
     image_path: /assets/images/explaination_pipeline.png
